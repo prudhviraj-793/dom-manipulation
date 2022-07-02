@@ -6,3 +6,4 @@ var div = document.createElement("div");
 div.className = "div";
 div.id = "div";
 div.setAttribute("title","hello");
+console.log(itemList.firstelementchild);
