@@ -7,3 +7,8 @@ div.className = "div";
 div.id = "div";
 div.setAttribute("title","hello");
 console.log(itemList.firstelementchild);
+console.log(itemList.firstchild);
+console.log(itemList.nextsibling);
+console.log(itemList.nextelementsibling);
+console.log(itemList.previoussibling);
+console.log(itemList.previouselementsibling);
