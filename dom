@@ -2,3 +2,7 @@ var itemList = document.querySelector("#items");
 console.log(itemList.parentNode);
 console.log(itemList.lastElementChild);
 console.log(itemList.lastChild);
+var div = document.createElement("div");
+div.className = "div";
+div.id = "div";
+div.setAttribute("title","hello");
